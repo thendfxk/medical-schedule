@@ -1,0 +1,18 @@
+.verify{
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    .verify-succeed{
+        .verify-confirm-succeed{
+            color: rgb(47, 240, 47);
+        }
+        .verify-confirm-fail{
+            color: rgb(221, 154, 9);
+        }
+    }
+    .verify-fail{
+        color: red;
+    }
+}

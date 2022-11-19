@@ -1,0 +1,42 @@
+
+.doctor-profile-container{
+    .for-more{
+        a{
+            color: #45c3d2;
+
+        }
+    }
+    .intro-doctor {
+        display: flex;
+        .content-left {
+            height: 80px;
+            width: 80px;
+            border: 1px solid #ddd;
+            border-radius: 50%;
+            background: center center;
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
+    
+        .content-right {
+            width: calc(100%-80px);
+            display: flex;
+            flex-direction: column;
+            padding-left: 10px;
+    
+            .Up {
+                cursor: pointer;
+                font-size: 17px;
+                font-weight: 600;
+                a{
+                    color:#6bc0cf;
+                    &:hover{
+                        text-decoration: none;
+                    }
+                }
+            }
+    
+
+        }
+    }
+}

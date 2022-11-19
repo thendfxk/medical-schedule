@@ -1,0 +1,6 @@
+#quy dinh nhung gi note ra ngoai
+/node_modules
+/vendor
+/.idea
+.idea/
+.env

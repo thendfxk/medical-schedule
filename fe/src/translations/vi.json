@@ -1,0 +1,123 @@
+{
+    "homeheader": {
+        "speciality": "Chuyên khoa",
+        "searchdoctor": "Tìm bác sĩ theo chuyên khoa",
+        "health-facility": "Cơ sở y tế",
+        "select-facility": "Chọn bệnh viện phòng khám",
+        "doctor": "Bác sĩ",
+        "Choose-a-good-doctor": "Chọn bác sĩ giỏi",
+        "Medical-package": "Gói khám",
+        "General-health-check": "Khám sức khỏe tổng quát",
+        "Support": "Hỗ trợ",
+        "welcome": "Xin chào , "
+    },
+    "banner": {
+        "medical-platform": "Nền tảng y tế",
+        "comprehensive-health-care": "Chăm sóc sức khỏe toàn diện",
+        "find-speciality": "Tìm chuyên khoa khám bệnh",
+        "speacialist-examination": "Khám chuyên khoa",
+        "remote-examination": "Khám từ xa",
+        "general-examination": "Khám tổng quát",
+        "medical-test": "Xét nghiệm y học",
+        "spirit-health": "Sức khỏe tinh thần",
+        "dentis-examination": "Khám nha khoa"
+    },
+    "menu": {
+        "system": {
+            "header": "Hệ thống",
+            "system-administrator": {
+                "header": "Quản trị hệ thống",
+                "user-manage": "Quản lý người sử dụng",
+                "user-redux": "Quản lý User Redux",
+                "register-package-group-or-account": "Đăng ký gói dịch vụ cho nhóm/tài khoản"
+            },
+            "system-parameter": {
+                "header": "Tham số hệ thống"
+            }
+        },
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-doctor": "Bác sĩ",
+            "manage-admin": "Administrator",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD redux",
+            "clinic": "Phòng khám",
+            "manage-clinic": "Quản lý phòng Khám",
+            "specialty": "Chuyên khoa",
+            "manage-specialty": " Quản lý chuyên khoa",
+            "handbook": "Cẩm nang y khoa",
+            "manage-handbook": "Quản lý cẩm nang"
+        },
+        "doctor": {
+            "manage-schedule": "Quản lý kế hoạch khám bệnh"
+        }
+    },
+    "manage-user": {
+        "add": "Thêm mới người dùng",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "firstname": "Tên",
+        "lastname": "Họ",
+        "phonenumber": "Số điện thoại",
+        "address": "Địa chỉ",
+        "gender": "Bản dạng giới",
+        "roleID": "Vai trò",
+        "position": "Học vị",
+        "image": "Hình ảnh",
+        "save": "Lưu",
+        "edit": "Lưu thay đổi"
+    },
+    "homepage": {
+        "outstanding-doctor": "Bác sĩ nổi bậc tuần qua",
+        "for-more": "Xem thêm",
+        "popular-specialties": "Chuyên khoa phổ biến"
+    },
+    "manage-schedule": {
+        "title": "Quản lý kế hoạch khám bệnh của bác sĩ",
+        "choose-doctor": "Chọn bác sĩ",
+        "choose-date": "Chọn ngày",
+        "save": "Lưu thông tin"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Lịch khám",
+            "unavailable": "Bác sĩ không có lịch khám bệnh trong khoảng thời gian này",
+            "choose": "Chọn",
+            "book": "và đặt (miễn phí)",
+            "address": "Địa chỉ",
+            "Medical-fee": "Giá khám",
+            "For-more": "Xem chi tiết",
+            "payment": "Bệnh nhân có thể thanh toán theo phương thức ",
+            "hide-details": "Ẩn chi tiết"
+        },
+        "modal-booking": {
+            "booking-infor": "Thông tin đặt lịch khám bệnh",
+            "lastname": "Họ",
+            "firstname": "Tên",
+            "phonenumber": "Số điện thoại",
+            "email": "Email",
+            "address-contact": "Địa chỉ liên hệ",
+            "prognostic": "Triệu chứng",
+            "booking-for": "Đặt lịch cho ai",
+            "patientAge": "Tuổi của bệnh nhân",
+            "genderIdentity": "Bản dạng giới",
+            "Medical-fee": "Giá khám: ",
+            "bookingforfree": "Miễn phí đặt lịch"
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Thêm thông tin bác sĩ",
+            "choose": "Chọn bác sĩ",
+            "profile-title": "Thông tin giới thiệu:",
+            "save": "Lưu thông tin",
+            "create": "Tạo thông tin",
+            "choose-price": "Chọn giá",
+            "choose-payment": "Chọn phương thức thanh toán",
+            "choose-province": "Chọn tỉnh thành",
+            "clinic-name": "Tên phòng khám",
+            "clinic-address": "Địa chỉ phòng khám",
+            "clinic-Note": "Ghi chú"
+        }
+    }
+}

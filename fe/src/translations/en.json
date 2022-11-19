@@ -1,0 +1,123 @@
+{
+    "homeheader": {
+        "speciality": "Medical speciality",
+        "searchdoctor": "Find a doctor by speciality",
+        "health-facility": "Health Facilities",
+        "select-facility": "Select Hospital Clinic",
+        "doctor": "Doctors",
+        "Choose-a-good-doctor": "Choose a suitable doctor",
+        "Medical-package": "Medical Packages",
+        "General-health-check": "General Health Check",
+        "Support": "Support",
+        "welcome": "Welcome , "
+    },
+    "banner": {
+        "medical-platform": "Medical Platform",
+        "comprehensive-health-care": "Comprehensive Health Care",
+        "find-speciality": "Find speacialist",
+        "speacialist-examination": "Speacialist Examination",
+        "remote-examination": "Remote Examination",
+        "general-examination": "General Examninaiton",
+        "medical-test": "Medical Test",
+        "spirit-health": "Spirit Health",
+        "dentis-examination": "Dentis Examination"
+    },
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": "Manage users redux",
+                "register-package-group-or-account": "Register service package for group/account"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+        "admin": {
+            "manage-user": "Manage user",
+            "manage-doctor": "Doctors",
+            "manage-admin": "Manage Doctors",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD redux",
+            "clinic": "Clinics",
+            "manage-clinic": "Manage clinics",
+            "specialty": "Specialty",
+            "manage-specialty": " Manage specialty",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage Handbook"
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor's Schedule"
+        }
+    },
+    "manage-user": {
+        "add": "Add new user",
+        "email": "Email",
+        "password": "Password",
+        "firstname": "First Name",
+        "lastname": "Last Name",
+        "phonenumber": "Phone Number",
+        "address": "Address",
+        "gender": "Gender Identity",
+        "roleID": "Role",
+        "position": "Degree",
+        "image": "Image",
+        "save": "Save",
+        "edit": "Save changes"
+    },
+    "homepage": {
+        "outstanding-doctor": "Weekly Outstanding Doctors",
+        "for-more": "For More",
+        "popular-specialties": "Popular Specialties"
+    },
+    "manage-schedule": {
+        "title": "Manage Doctor's Schedule",
+        "choose-doctor": "Choose a doctor",
+        "choose-date": "Choose a date",
+        "save": "Save schedule"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Appointment Schedule",
+            "unavailable": "The doctor does not have any Appointment schedules available in this time.",
+            "choose": "Choose",
+            "book": "and booking (for free)",
+            "address": "Address",
+            "Medical-fee": "Medical fee",
+            "For-more": "For more information",
+            "payment": "Patients are able to pay in form of: ",
+            "hide-details": "Hide details"
+        },
+        "modal-booking": {
+            "booking-infor": "Booking Appointment Information",
+            "lastname": "Last Name",
+            "firstname": "First Name",
+            "phonenumber": "Phone Number",
+            "email": "Email",
+            "address-contact": "Contact Address",
+            "prognostic": "Prognostic",
+            "booking-for": "Booking for",
+            "patientAge": "Patient's age",
+            "genderIdentity": "Gender Identity",
+            "Medical-fee": "Medical fee: ",
+            "bookingforfree": "Booking for free"
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Add doctor's information",
+            "choose": "Choose doctor",
+            "profile-title": "Profile",
+            "save": "Save information",
+            "create": "Create information",
+            "choose-price": "Choose price",
+            "choose-payment": "Choose payment method",
+            "choose-province": "Choose province",
+            "clinic-name": "Clinic's name",
+            "clinic-address": "Clinic's address",
+            "clinic-Note": "Note"
+        }
+    }
+}
