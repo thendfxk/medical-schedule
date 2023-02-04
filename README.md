@@ -1,1 +1,1 @@
-# medical-sochedule
+# medical-schedule
